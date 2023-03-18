@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css?family=Nunito:200,300,regular,500,600,700,800,900,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.extra-bolds {
+    font-weight: 800;
+}
+
+.order-title {
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.status {
+    font-size: 14px;
+}
+
+.main-title {
+    font-weight: 700;
+}
+
+.card-title {
+    font-weight: 800;
+}
+
+.total-price {
+    margin-top: 15px;
+    margin-bottom: 5px;
+    font-weight: 700;
+}
